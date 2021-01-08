@@ -1,7 +1,7 @@
 <?php
-include 'myfile.php';
-echo $var1;
-echo $var2;
+include '.env';
+echo $sushma;
+echo $devops;
 echo "HI azure app ";
 #echo " DEVOPS ";
 
