@@ -1,4 +1,4 @@
 <?php
 
 echo "HI azure app ";
-echo " DEVOPS ";
+#echo " DEVOPS ";
